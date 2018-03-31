@@ -6,3 +6,9 @@ Make sure the Maven dependencies are correctly downloaded.
 
 ## Running
 use ```mvn spring-boot:run``` to start the server when in the root directory.
+
+## Libraries
+This server uses 
+* [Spring Boot Framework 2.0.0.RELEASE](https://projects.spring.io/spring-boot/)
+* [Jackson FasterXML](https://github.com/FasterXML/jackson)
+* [The IGDB API](https://api.igdb.com/)
